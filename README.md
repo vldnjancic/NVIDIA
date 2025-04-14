@@ -12,8 +12,7 @@ The dataset includes the following tables and fields:
 - Highest Values, Lowest Values, Traded Volume
 
 📁 **File:** `NVDA.csv`  
-📄 **Sample Rows:** 6393 rows
-
+📄 **Sample Rows:** 6393 rows  
 📌 **YTD Return for 2024:** 175%
 
 ---
