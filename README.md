@@ -1,19 +1,19 @@
 # 📊 NVIDIA Stock Analytics Dashboard | Power BI Project
 
 ## 📝 Project Overview
-Exploring the world of F1 through data! This project dives into race results, driver performance, fastest lap times, and team standings using interactive Power BI dashboards. 
+This project provides a comprehensive analysis of NVIDIA’s stock performance from 1999 to June 2024 using Power BI. It explores historical trends, price movements, trading volume, monthly returns, 
+and predictive analysis. The project features interactive dashboards for investors to analyze key financial metrics and forecast future stock movements.
 
 ---
 
 ## 📂 Dataset Description
 The dataset includes the following tables and fields:
-- Drivers, Races, Results, Driver Standings
-- Driver Name, Nationality, Driver ID
-- Fastest Lap Time, Position, Points
+- Opening Price, Close Price, Adjusted Close Price
+- Highest Values, Lowest Values, Traded Volume
 
-📁 **File:** `drivers.csv`  
-📄 **Sample Rows:** 861 drivers  
-📌 **British Drivers:** 166
+📁 **File:** `NVDA.csv`  
+📄 **Sample Rows:** 6393 rows
+📌 **YTD Return for 2024:** 175%
 
 ---
 
@@ -26,11 +26,12 @@ The dataset includes the following tables and fields:
 ---
 
 ## 📊 Dashboard Features
-- 🚻 **Drivers by Nationality**
-- 💼 **Fastest Lap Times**
-- 📉 **Wins per Driver in a Year**
-- 💰 **Total Wins, Total Podium Finishes**
-- 🧠 **Races Per Year, Average Finishing Positions**
+- 📉 **Opening Price in a Year**
+- 📉 **Closing Price in a Year**
+- 📉 **YTD Return**
+- 📉 **Trading Volume & Price Movement**
+- 📉 **Predictive Analysis**
+- 📉 **Monthly Returns**
 
 ---
 
@@ -41,15 +42,14 @@ The dataset includes the following tables and fields:
 ---
 
 ## 💡 Key Insights
-- Which nations have consistently contributed to the sport
-- Does having the fastest lap correlate with winning races?
-- Which drivers consistently win races, and how do different seasons compare?
-- Are race wins evenly distributed, or do a few drivers dominate the sport?
+- NVIDIA's trading volume tends to spike during earnings reports, product launches, or major market movements.
+- June 2024 had the highest trading volume (~352bn), coinciding with a price peak.
+- Investors can identify periods of high volatility and trading activity.
 
 ---
 
 ## 🚀 Getting Started
-1. Download `f1.pbix`
+1. Download `nvidia2.pbix`
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 3. Explore visuals and filters for insights
 
