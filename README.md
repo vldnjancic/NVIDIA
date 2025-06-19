@@ -37,8 +37,8 @@ The dataset includes the following tables and fields:
 
 ## 📷 Dashboard Preview
 
-![F1 Analytics Dashboard](nvidia_Front.png)
-![F1 Analytics Dashboard](nvidia_Back.png)
+![F1 Analytics Dashboard](Images/nvidia_Front.png)
+![F1 Analytics Dashboard](Images/nvidia_Back.png)
 
 ---
 
